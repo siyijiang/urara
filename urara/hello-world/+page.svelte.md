@@ -9,7 +9,7 @@ tags:
   - 'Urara'
 ---
 
-Welcome to Urara! this article contains some basic operations to help you quickly get started.
+哦Welcome to Urara! this article contains some basic operations to help you quickly get started.
 
 ## Developing
 
